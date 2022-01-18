@@ -1,0 +1,168 @@
+/************tag selectors***********/
+
+a{
+    text-decoration: none;
+    margin: 10px 20px 
+}
+a:hover{
+    color: honeydew;
+}
+
+body{
+    text-align: center;
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin-top: 0px;
+    margin-left: 20px;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color:#1c3dd0;
+   margin:70px auto 0
+   auto;
+   
+
+    
+    
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    color:#1c3dd0;
+    font-weight: normal;
+}
+
+h3{
+    font-family:'Montserrat', sans-serif;
+    font-size: 25px;
+    color:#1c3dd0;
+    
+    
+    
+}
+
+p{
+    margin-left: 30px;
+    font-family: 'Cormorant', serif;
+    font-size: 20px;
+    line-height: 2;
+    
+
+    
+}
+
+
+
+
+/*************class selectors********/
+
+.bottom-cloud{
+    position: absolute; left: 250px;
+}
+
+.bottom-container{
+    background-color: #1cb5d0;
+    height: 150px;
+    padding-top: 60px ;
+    color: #1c3dd0;
+    margin: 100px 0 0;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family:'Montserrat', sans-serif;
+    color: #000D6B;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 2px;
+    text-decoration: none;
+
+    
+  }
+  
+  .btn:hover {
+    background: #146356;
+    background-image: -webkit-linear-gradient(top, #146356, #FFE162);
+    background-image: -moz-linear-gradient(top, #146356, #FFE162);
+    background-image: -ms-linear-gradient(top, #146356, #FFE162);
+    background-image: -o-linear-gradient(top, #146356, #FFE162);
+    background-image: linear-gradient(to bottom, #146356, #FFE162);
+    text-decoration: none;
+  }
+
+.Computer{
+    border-radius: 100%;
+    width: 30%;
+    text-align: right;
+    float: left;
+    margin-right: 40px;
+    
+}
+.Get-in-touch{
+    width: 45%;
+    margin:0 auto 50px auto;
+   
+    
+}
+
+.King{
+    background-color: white;
+       
+}
+
+.OBA{
+   background-color:#1cb5d0 ; 
+   padding-top: 100px;
+  
+}
+
+.profile{
+    width: 45%;
+    margin: 40px auto;
+    
+
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.Queen{
+    background-color:white ;
+    margin: 10% auto;
+    width: 45%;
+
+}
+
+.skill-row{
+    margin: 150px auto 150px auto;
+    text-align: left;
+      
+}
+
+.top-cloud{
+    position: absolute; right: 300px;
+    margin-top: 30px;
+}
+
+.windows{
+    border-radius: 100%;
+    width: 30%;
+    text-align: left;
+    float: right;
+    margin-left: 40px;
+    
+}
+    
+    
