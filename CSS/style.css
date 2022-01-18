@@ -120,11 +120,17 @@ p{
     background-color: white;
        
 }
+.michael{
+    text-decoration: underline;
+}
 
 .OBA{
    background-color:#1cb5d0 ; 
    padding-top: 100px;
   
+}
+.privacy{
+    font-size: 15px;
 }
 
 .profile{
